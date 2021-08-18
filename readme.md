@@ -1,0 +1,1 @@
+Configure login/logout functionality with Django's the built-in [user authentication system](https://docs.djangoproject.com/en/3.1/topics/auth/), also covers [signup](https://learndjango.com/tutorials/django-signup-tutorial) and [password reset](https://learndjango.com/tutorials/django-password-reset-tutorial) for a complete user authentication flow in my future Django projects.
